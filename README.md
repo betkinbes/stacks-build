@@ -79,3 +79,4 @@
 2026-02-13 18:42:44 - cleaned pipeline block
 2026-02-13 18:42:51 - updated env var
 2026-02-13 18:42:58 - adjusted script logic
+2026-02-13 18:43:06 - refined build step

@@ -215,3 +215,4 @@
 2026-02-13 21:32:46 - optimized script section
 2026-02-13 21:32:53 - minor config fix
 2026-02-13 21:33:00 - updated build notes
+2026-02-13 21:33:08 - improved deploy step

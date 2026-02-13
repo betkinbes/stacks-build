@@ -172,3 +172,4 @@
 2026-02-13 21:27:32 - updated build notes
 2026-02-13 21:27:39 - cleaned pipeline block
 2026-02-13 21:27:47 - cleaned pipeline block
+2026-02-13 21:27:54 - minor config fix

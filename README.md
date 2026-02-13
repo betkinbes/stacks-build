@@ -94,3 +94,4 @@
 2026-02-13 18:44:35 - minor config fix
 2026-02-13 18:44:42 - improved deploy step
 2026-02-13 18:44:50 - adjusted script logic
+2026-02-13 18:44:57 - adjusted network param

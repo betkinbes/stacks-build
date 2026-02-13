@@ -52,3 +52,4 @@
 2026-02-13 15:09:51 - refined build step
 2026-02-13 15:09:58 - modified stack config
 2026-02-13 15:10:05 - minor config fix
+2026-02-13 18:39:47 - updated build notes

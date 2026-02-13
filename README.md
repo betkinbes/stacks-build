@@ -229,3 +229,4 @@
 2026-02-13 21:34:28 - modified stack config
 2026-02-13 21:34:35 - updated build notes
 2026-02-13 21:34:43 - updated env var
+2026-02-13 21:34:50 - improved deploy step

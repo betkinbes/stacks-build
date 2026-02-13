@@ -11,3 +11,4 @@
 2026-02-13 15:04:52 - minor config fix
 2026-02-13 15:05:00 - adjusted script logic
 2026-02-13 15:05:07 - adjusted network param
+2026-02-13 15:05:14 - improved deploy step

@@ -196,3 +196,4 @@
 2026-02-13 21:30:27 - updated env var
 2026-02-13 21:30:34 - minor config fix
 2026-02-13 21:30:42 - minor config fix
+2026-02-13 21:30:49 - adjusted script logic

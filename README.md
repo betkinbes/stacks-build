@@ -63,3 +63,4 @@
 2026-02-13 18:40:46 - adjusted script logic
 2026-02-13 18:40:53 - updated build notes
 2026-02-13 18:41:01 - cleaned pipeline block
+2026-02-13 18:41:08 - updated env var

@@ -145,3 +145,4 @@
 2026-02-13 18:50:51 - minor config fix
 2026-02-13 18:50:58 - updated env var
 2026-02-13 18:51:06 - refined build step
+2026-02-13 18:51:13 - modified stack config

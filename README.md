@@ -5,3 +5,4 @@
 2026-02-13 15:04:09 - updated env var
 2026-02-13 15:04:16 - adjusted network param
 2026-02-13 15:04:23 - updated build notes
+2026-02-13 15:04:31 - modified stack config

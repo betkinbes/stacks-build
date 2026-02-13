@@ -14,3 +14,4 @@
 2026-02-13 15:05:14 - improved deploy step
 2026-02-13 15:05:22 - updated env var
 2026-02-13 15:05:29 - adjusted network param
+2026-02-13 15:05:36 - minor config fix

@@ -89,3 +89,4 @@ init
 2026-02-13 18:42:58 - adjusted script logic
 2026-02-13 18:43:06 - refined build step
 2026-02-13 18:43:13 - adjusted network param
+2026-02-13 18:43:20 - improved deploy step

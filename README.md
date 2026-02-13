@@ -193,3 +193,4 @@
 2026-02-13 21:30:05 - updated build notes
 2026-02-13 21:30:12 - adjusted script logic
 2026-02-13 21:30:20 - adjusted script logic
+2026-02-13 21:30:27 - updated env var

@@ -12,3 +12,4 @@
 2026-02-13 15:05:00 - adjusted script logic
 2026-02-13 15:05:07 - adjusted network param
 2026-02-13 15:05:14 - improved deploy step
+2026-02-13 15:05:22 - updated env var

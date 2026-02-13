@@ -141,3 +141,4 @@
 2026-02-13 18:50:22 - optimized script section
 2026-02-13 18:50:29 - improved deploy step
 2026-02-13 18:50:36 - improved deploy step
+2026-02-13 18:50:44 - updated env var

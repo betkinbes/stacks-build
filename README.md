@@ -238,3 +238,4 @@
 2026-02-13 21:35:34 - optimized script section
 2026-02-13 21:35:41 - improved deploy step
 2026-02-13 21:35:48 - cleaned pipeline block
+2026-02-13 21:35:59 - minor config fix

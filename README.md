@@ -92,3 +92,4 @@
 2026-02-13 18:44:20 - adjusted script logic
 2026-02-13 18:44:27 - cleaned pipeline block
 2026-02-13 18:44:35 - minor config fix
+2026-02-13 18:44:42 - improved deploy step

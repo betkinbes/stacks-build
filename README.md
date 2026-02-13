@@ -250,3 +250,4 @@
 2026-02-13 21:37:07 - cleaned pipeline block
 2026-02-13 21:37:14 - improved deploy step
 2026-02-13 21:37:21 - cleaned pipeline block
+2026-02-13 21:37:28 - adjusted script logic

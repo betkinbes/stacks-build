@@ -98,3 +98,4 @@
 2026-02-13 18:45:05 - minor config fix
 2026-02-13 18:45:12 - adjusted script logic
 2026-02-13 18:45:19 - minor config fix
+2026-02-13 18:45:27 - updated build notes

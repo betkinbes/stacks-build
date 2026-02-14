@@ -263,3 +263,4 @@ init
 2026-02-13 23:56:55 - refined build step
 2026-02-13 23:57:02 - adjusted script logic
 2026-02-14 13:05:19 - refined build step
+2026-02-14 13:05:26 - minor config fix

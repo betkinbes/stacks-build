@@ -489,3 +489,4 @@
 2026-02-20 12:29:18 - modified stack config
 2026-02-20 12:29:55 - refined build step
 2026-02-20 12:30:20 - modified stack config
+2026-02-20 12:30:46 - updated env var

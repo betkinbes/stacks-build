@@ -532,3 +532,4 @@
 2026-02-21 11:15:38 - refined build step
 2026-02-21 11:16:09 - modified stack config
 2026-02-21 11:16:18 - refined build step
+2026-02-21 11:16:47 - updated env var
